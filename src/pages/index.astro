@@ -32,9 +32,18 @@ const latestNotes = allNotes
 <PageLayout meta={{ title: "Home" }}>
 	<section>
 		<h1 class="title mb-12">Welcome!</h1>
-		<p class="mb-4">
-			PhD student. Welcome — this is where I keep notes, projects, and the occasional post.
-		</p>
+		<div class="mb-6 flex flex-col items-start gap-6 sm:flex-row sm:items-center">
+			<img
+				alt="Andrea Baleani"
+				class="h-32 w-32 rounded-full object-cover sm:h-40 sm:w-40"
+				height="160"
+				src="/profile.jpg"
+				width="160"
+			/>
+			<p class="m-0">
+				PhD student. Welcome — this is where I keep notes, projects, and the occasional post.
+			</p>
+		</div>
 		<SocialList />
 	</section>
 	{
