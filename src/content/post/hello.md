@@ -1,10 +1,8 @@
 ---
-title: "Hello world"
-description: "A first post. Edit this file at src/content/post/hello.md to make it your own."
-publishDate: "2026-05-22"
+title: "Site under construction"
+description: "Trying to have regular updates."
+publishDate: "22-05-2026"
 tags: []
 ---
 
-This is your first post. Edit the file at `src/content/post/hello.md` to change the title, date, and body.
-
-You can write in **Markdown** — headings, lists, links, code blocks all work out of the box.
+I am working on this. I always do useless things.
