@@ -21,7 +21,7 @@ import { expressiveCodeOptions, siteConfig } from "./src/site.config";
 
 // https://astro.build/config
 export default defineConfig({
-	site: "https://yourusername.github.io",
+	site: "https://baleani.github.io",
 	image: {
 		domains: ["webmention.io"],
 	},
