@@ -1,7 +1,7 @@
 ---
 title: "Site under construction"
 description: "Trying to have regular updates."
-publishDate: "22-05-2026"
+publishDate: "2026-05-22"
 tags: []
 ---
 
