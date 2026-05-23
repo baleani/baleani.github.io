@@ -1,6 +1,6 @@
 ---
 title: Matrix functions
-description: 
+description: .
 ---
 
 This is an example of a custom intro on a tag page. Its markdown can be found in `src/content/tag/test.md`.
